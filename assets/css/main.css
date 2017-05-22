@@ -1,2 +1,6 @@
 nav {
-  background: orange; }
+  background: white; }
+
+footer.page-footer,
+footer.page-footer .footer-copyright {
+  background: white; }
